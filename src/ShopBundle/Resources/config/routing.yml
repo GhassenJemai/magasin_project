@@ -1,0 +1,28 @@
+shop_homepage:
+    path:     /index.html
+    defaults: { _controller: ShopBundle:Default:index }
+shop_homepage1:
+    path:     /indexx.html
+    defaults: { _controller: ShopBundle:Default:indexx }
+shop_homepage2:
+    path:     /products.html
+    defaults: { _controller: ShopBundle:Default:products }
+
+shop_homepage3:
+    path:     /products1.html
+    defaults: { _controller: ShopBundle:Default:products1 }
+shop_homepage4:
+    path:     /registered.html
+    defaults: { _controller: ShopBundle:Default:registered }
+
+shop_homepage5:
+    path:     /single.html
+    defaults: { _controller: ShopBundle:Default:single }
+
+shop_homepage6:
+    path:     /codes.html
+    defaults: { _controller: ShopBundle:Default:codes }
+
+shop_homepage7:
+    path:     /checkout.html
+    defaults: { _controller: ShopBundle:Default:checkout }
